@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Diego"
+    },
+    {
+      "id": 2,
+      "name": "Dani"
+    },
+    {
+      "name": "Barto",
+      "id": 3
+    },
+    {
+      "name": "Barto",
+      "id": 4
+    },
+    {
+      "name": "Barto",
+      "id": 5
+    },
+    {
+      "name": "Barto",
+      "id": 6
+    },
+    {
+      "name": "Barto",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "Kayo Timoteo"
+    }
+  ]
+}
